@@ -1,4 +1,4 @@
-# CCounterparty Risk Exposure
+# Counterparty Risk Exposure
 
 Counterparty risk is the risk that the counterparty to a financial transaction may fail to meet its contractual payments, causing financial loss for the bank. Counterparty risk is represented via exposure profiles and is commonly reduced to the peak value of that profile for simplicity. Below is an example of an exposure profile of counterparty X.
 
